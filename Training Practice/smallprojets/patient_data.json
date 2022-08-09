@@ -1,0 +1,61 @@
+{
+        "patients_list": [
+                {
+                        "patient_id": 1,
+                        "firstName": "asif",
+                        "lastName": "shaikh",
+                        "gender": "male",
+                        "age": 28,
+                        "address": {
+                                "streetAddress": "101",
+                                "city": "San Diego",
+                                "state": "CA"
+                        },
+                        "phoneNumbers": [
+                                {
+                                        "type": "home",
+                                        "number": "7349282382"
+                                }
+                        ]
+                },
+                {
+                        "patient_id": 2,
+                        "firstName": "prashant",
+                        "lastName": "ganji",
+                        "gender": "male",
+                        "age": 28,
+                        "address": {
+                                "streetAddress": "101",
+                                "city": "San Diego",
+                                "state": "CA"
+                        },
+                        "phoneNumbers": [
+                                {
+                                        "type": "home",
+                                        "number": "7349282382"
+                                }
+                        ]
+                },
+                {
+                        "patient_id": 3,
+                        "firstName": "sagar",
+                        "lastName": "darade",
+                        "gender": "male",
+                        "age": 20
+                },
+                {
+                        "patient_id": 4,
+                        "firstName": "shubham",
+                        "lastName": "bhagwat",
+                        "gender": "male",
+                        "age": 23
+                },
+                {
+                        "patient_id": 5,
+                        "firstName": "AS",
+                        "lastName": "SF",
+                        "gender": "MALE",
+                        "age": 32
+                }
+        ]
+}
